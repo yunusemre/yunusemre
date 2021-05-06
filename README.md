@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi everyone,
+
+I'm Yunus Emre and a Frontend Developer currently working on on 🔭 @sestek.
 
 <!--
 **yunusemre/yunusemre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
