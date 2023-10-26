@@ -7,5 +7,5 @@ I'm Yunus Emre and as a Frontend Developer. I'm currently working on 🔭 @seste
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on @sestek
+- 🔭 I’m currently working on @kolaygelsin
 -->
